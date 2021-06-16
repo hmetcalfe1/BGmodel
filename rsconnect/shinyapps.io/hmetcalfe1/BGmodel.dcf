@@ -1,0 +1,13 @@
+name: BGmodel
+title: BGmodel
+username:
+account: hmetcalfe1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3227411
+bundleId: 3866086
+url: https://hmetcalfe1.shinyapps.io/BGmodel/
+when: 1605518725.29579
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/bgfield.png|www/ompots.jpg
